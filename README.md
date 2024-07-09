@@ -12,7 +12,9 @@ Leveraged acquired data analytics and insights from previous tasks to create com
 ## Datasets
 
 [QVI_transaction_data.xlsx](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/QVI_transaction_data.xlsx)
+
 [QVI_purchase_behaviour.csv](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/QVI_purchase_behaviour.csv)
+
 [QVI_data.zip](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/QVI_data.zip )
 
 ## Code
