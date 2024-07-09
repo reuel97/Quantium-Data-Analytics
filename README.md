@@ -8,3 +8,25 @@ Developed expertise in data preparation and customer analytics, utilizing transa
 Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
 
 Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+
+## Datasets
+
+[QVI_transaction_data.xlsx](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/QVI_transaction_data.xlsx)
+[QVI_purchase_behaviour.csv](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/QVI_purchase_behaviour.csv)
+[QVI_data.zip](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/QVI_data.zip )
+
+## Code
+
+[Quantium.ipynb](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/Quantium.ipynb)
+
+## Result
+
+[Quantium_Project_Report](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/Quantium_Project_Report.pptx)
+
+## Certification
+
+[Quantium_completion_certificate](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/Quantium_completion_certificate.pdf)
+
+## Acknowledgements
+
+I would like to thank Forage and Quantium for providing the data and support for this project. 
