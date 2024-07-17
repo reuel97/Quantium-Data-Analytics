@@ -21,7 +21,7 @@ Leveraged acquired data analytics and insights from previous tasks to create com
 
 [Quantium.ipynb](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/Quantium.ipynb)
 
-## Result
+## Result/ Presentation
 
 [Quantium_Project_Report](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/Quantium_Project_Report.pptx)
 
