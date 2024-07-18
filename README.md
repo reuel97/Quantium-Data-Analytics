@@ -23,7 +23,7 @@ Leveraged acquired data analytics and insights from previous tasks to create com
 
 ## Result/ Presentation
 
-[Email Draft for Quantium Report Submission.docx](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/Email%20Draft%20for%20Quantium%20Report%20Submission.docx)
+[Email Draft for Quantium Report Submission.pdf](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/Email%20Draft%20for%20Quantium%20Report%20Submission.pdf)
 
 [Quantium_Project_Report.pdf](https://github.com/reuel97/Quantium-Data-Analytics/blob/main/Quantium_Project_Report.pdf)
 
